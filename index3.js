@@ -419,7 +419,7 @@ else if(clickCount==3){
 
 
 
-else if (clickCount>2){
+else if (clickCount>=2){
 
 
 //for(k=3;k<5;k++){
